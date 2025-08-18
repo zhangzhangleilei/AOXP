@@ -1,7 +1,8 @@
 # AOXP
 antioxidant peptide predict
 Code and trained model for our paper **Antioxidant Peptide Prediction Based on Multi-Scale Characterization: A Method Combining Protein Large Language Models and Physicochemical Features**
-![Overall FrameWork](https://github.com/zhangzhangleilei/AOXP/blob/main/fig1.tif)
+![Overall FrameWork]
+(https://github.com/zhangzhangleilei/AOXP/blob/main/fig1.tif)
 
 <br>
 
