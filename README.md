@@ -40,9 +40,7 @@ python predict.py [fea1] [fea2] [path] [k] #k, feature selection index [2400]
 ## Web
 We have developed a web server for the above process to facilitate its usage.
 ```bash
-http://aidd.bioai-global.com/anoxp/
-or
-http://218.244.151.86/anoxp/
+http://aidd.bioai-global.com/AOXP/
 ```
 <br>
 
