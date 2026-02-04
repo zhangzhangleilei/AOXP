@@ -19,7 +19,7 @@ conda activate AOXP
 The dataset used can be downloaded from [data](https://github.com/zhangzhangleilei/AOXP/tree/main/data)
 <br>
 
-## Predict
+## Predict 【step-by-step】
 We have provided AOXP model for you to use [predict](https://github.com/zhangzhangleilei/AOXP/tree/main/predict)
 If you want to use our model, please first generate the features of your own dataset according to the following code.
 ```bash
@@ -37,6 +37,12 @@ python predict.py [fea1] [fea2] [path] [k] #k, feature selection index [2400]
 ```
 <br>
 
+## Predict 【end-to-end】
+```bash
+cd example
+python predict.py --input_csv=./example.csv --model_path=./
+# prediction.csv:result
+```
 ## Web
 We have developed a web server for the above process to facilitate its usage.
 ```bash
